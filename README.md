@@ -102,4 +102,8 @@ In the main.py to True, will cause Blender to exist every 10 sets. If this is ru
 There are two issues with this mode: The first issue is that it slows down rendering time. The second is that in a small fraction of cases, this completely deforms the object.
 To cancel this set scene rendering from experimental to supported and in materials change Displacement_and_bump to bump. Note that with RTX 3090 I got about 3-4 images per minute with with CUDA on.
 
+# Sampled Results
+[12,000 images of Square 3D surface with maximum variation for 3d surface retrieval tasks,  can be download from here](https://e.pcloud.link/publink/show?code=XZoc7EZwqmv9VndM78XqmVtuMevmHli99By)
+[More 3D surfaces images various of images for testing](https://e.pcloud.link/publink/show?code=XZHykEZzmbIk7RLYXpNzvwvbMaieXn18Xq7)
+
 
